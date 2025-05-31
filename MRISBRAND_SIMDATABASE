@@ -1,0 +1,55 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MR IS BRAND SIM DATABASE</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      background: url('https://images.unsplash.com/photo-1528459105426-b5d7ac98fb1b') no-repeat center center fixed;
+      background-size: cover;
+      color: white;
+      text-align: center;
+    }
+    h1 {
+      margin-top: 40px;
+      font-size: 2.5em;
+      color: cyan;
+      text-shadow: 2px 2px 5px black;
+    }
+    input[type="text"] {
+      width: 80%;
+      padding: 12px;
+      font-size: 1.2em;
+      margin-top: 30px;
+      border: none;
+      border-radius: 10px;
+      background: black;
+      color: white;
+      box-shadow: 0 0 10px cyan;
+    }
+    .btn {
+      display: block;
+      width: 80%;
+      padding: 15px;
+      margin: 15px auto;
+      font-size: 1.2em;
+      border: none;
+      border-radius: 20px;
+      cursor: pointer;
+      font-weight: bold;
+      text-shadow: 1px 1px black;
+    }
+    .get-details { background: magenta; color: white; }
+    .whatsapp-contact { background: limegreen; color: white; }
+    .official-channel { background: red; color: white; }
+    .whatsapp-channel { background: blue; color: white; }
+    .footer { margin-top: 30px; font-size: 0.9em; }
+  </style>
+</head>
+<body>
+  <h1>MR IS BRAND SIM DATABASE</h1>  <input type="text" placeholder="ENTER YOUR NUMBER 92313xxxxxxx" />  <button class="btn get-details" onclick="alert('Demo only: No real data.')">
+    ✧GET DETAILS.✧
+  </button><a href="https://wa.me/+923195066576?text=┞𝔧𝔢𝔯𝔯𝔬𝔲𝔢𝔝𝔰𝔬𝔝𝔟𝔢𝔰𝔯𝔢𝔢𝔵𝔢𝔫' target="_blank"> <button class="btn whatsapp-contact
